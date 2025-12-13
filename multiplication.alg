@@ -13,7 +13,7 @@
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
         <item algoitem="AFFICHER &quot;Donne un nombre&quot;" code="4#Donne un nombre#0"/>
         <item algoitem="LIRE n" code="2#n#pasliste"/>
-        <item algoitem="AFFICHERCALCUL n * 2" code="20#n * 2#0"/>
+        <item algoitem="AFFICHERCALCUL n * 3" code="20#n * 3#0"/>
     </item>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
 </Algo>
